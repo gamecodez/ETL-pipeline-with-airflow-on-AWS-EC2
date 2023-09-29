@@ -14,14 +14,9 @@ sudo pip install s3fs
 sudo pip install apache-airflow
 airflow standalone
 
-username: admin  password: XXXXXXXX
-
 Weather Map API: https://openweathermap.org/api
-weather API key : XXXXXXXX
 
 create credential access key  
-access key ID : XXXXXXXX
-Secret access key : XXXXXXXX
 
 sudo apt  install awscli
 aws configure

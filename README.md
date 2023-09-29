@@ -22,5 +22,7 @@ create credential access key
 - aws configure
 - aws sts get-session-token
 
+sample data in repo : current_weather_data.csv
+
 Overview 
 ![Alt text](Capture.JPG)
